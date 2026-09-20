@@ -1,0 +1,6 @@
+{
+  "name": "Sheldon Ruddock Prints & TOONHUB",
+  "description": "Official print shop for Sheldon Ruddock featuring archival photography prints, TOONHUB hero showcase, search, multi-payment guest checkout, and automated email confirmation notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
