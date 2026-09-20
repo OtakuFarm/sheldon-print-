@@ -29,7 +29,7 @@ import { FilmPage } from './components/FilmPage';
 
 export default function App() {
   // Navigation & Page State
-  const [currentPage, setCurrentPage] = useState<'shop' | 'film'>('film');
+  const [currentPage, setCurrentPage] = useState<'shop' | 'film'>('shop');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<'All' | 'Prints' | 'Posters' | 'Editions'>('All');
   const [inStockOnly, setInStockOnly] = useState(false);
